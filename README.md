@@ -14,7 +14,4 @@ This project integrates multiple databases into a single analytics hub, optimizi
 ## Technologies Used
 - Python, MySQL, SQLite, Snowflake, Power BI
 
-## Usage
-Run the analytics queries:
-```bash
-python run_queries.py
+
